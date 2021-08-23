@@ -1,5 +1,4 @@
 TRUNCATE TABLE Dataset_IranAdministrativeDivision;
-INSERT INTO Dataset_IranAdministrativeDivision (id, title, type, parent) VALUES (id, 'title', 'type', parent);
 INSERT INTO Dataset_IranAdministrativeDivision (id, title, type, parent) VALUES (100001, 'آذربایجان شرقی', 'ostan', null);
 INSERT INTO Dataset_IranAdministrativeDivision (id, title, type, parent) VALUES (100002, 'آذربایجان غربی', 'ostan', null);
 INSERT INTO Dataset_IranAdministrativeDivision (id, title, type, parent) VALUES (100003, 'اردبیل', 'ostan', null);
